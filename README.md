@@ -5,6 +5,7 @@ It demonstrates how gravitational differences affect object weight across Mercur
 Using basic input/output operations and arithmetic calculations, this beginner-friendly program helps users understand planetary gravity ratios in a simple, interactive way.
 
  Key Features:
+ 
 Accepts user input for Earth weight
 
 Calculates weight on:
