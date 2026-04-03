@@ -1,4 +1,6 @@
-This Java program calculates the weight of an object on different planets based on its weight on Earth. It demonstrates how gravitational differences affect object weight across Mercury, Venus, Jupiter, and Saturn.
+This Java program calculates the weight of an object on different planets based on its weight on Earth. 
+
+It demonstrates how gravitational differences affect object weight across Mercury, Venus, Jupiter, and Saturn.
 
 Using basic input/output operations and arithmetic calculations, this beginner-friendly program helps users understand planetary gravity ratios in a simple, interactive way.
  Key Features:
